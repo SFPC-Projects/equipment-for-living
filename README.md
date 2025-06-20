@@ -9,7 +9,7 @@ This is the official project archive for the **Equipment for Living** class at t
 The site is a static web archive that displays student projects in a card layout. Each card can be clicked to open a modal with detailed information and an embedded interactive project (when available).
 
 ### Live version
-[https://otto-line.github.io/eqfl/](https://otto-line.github.io/eqfl/)
+[https://SFPC-Projects.github.io/equipment-for-living/](https://SFPC-Projects.github.io/equipment-for-living/)
 
 ---
 
@@ -88,6 +88,7 @@ eqfl/
 ├── main.js               ← Dynamic modal & card rendering
 ├── projects.json         ← All project data
 ├── img/                  ← Thumbnails and project images
+├── vid/                  ← Videos
 └── webgl/                ← WebGL embedding files
 ```
 
