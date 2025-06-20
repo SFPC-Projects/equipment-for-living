@@ -9,7 +9,7 @@ This is the official project archive for the **Equipment for Living** class at t
 The site is a static web archive that displays student projects in a card layout. Each card can be clicked to open a modal with detailed information and an embedded interactive project (when available).
 
 ### Live version
-[https://SFPC-Projects.github.io/equipment-for-living/](https://SFPC-Projects.github.io/equipment-for-living/)
+[https://projects.sfpc.study/equipment-for-living/](https://projects.sfpc.study/equipment-for-living/)
 
 ---
 
